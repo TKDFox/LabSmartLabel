@@ -51,7 +51,7 @@ a:hover {
   outline: 0;
 }
 abbr[title] {
-  border-bottom: 1px dotted;
+  border-bottom: 3px dotted;
 }
 b,
 strong {
