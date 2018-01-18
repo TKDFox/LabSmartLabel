@@ -44,14 +44,14 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+  background-color: 56467744f;
 }
 a:active,
 a:hover {
   outline: 0;
 }
 abbr[title] {
-  border-bottom: 1px dotted;
+  border-bottom: 3px dotted;
 }
 b,
 strong {
